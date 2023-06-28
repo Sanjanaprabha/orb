@@ -22,7 +22,9 @@
 }
 .heading{
     font-family: 'Montserrat', sans-serif;
-    text-shadow: whitesmoke 10px;
+    text-shadow: antiquewhite;
+    color: white;
+    font-size: 55px;
   }
 
 body{

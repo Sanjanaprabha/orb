@@ -1,5 +1,11 @@
 export const arrayItems =[
     {
+        name:"Image Generation",
+        id:"image generation",
+        description:"Generates exact or similar images according to the input taken by the user ",
+        
+    },
+    {
         name:"Q&A",
         id:"Q&A",
         description:"Act as a content writer,answers basic Question answers",
@@ -27,12 +33,6 @@ export const arrayItems =[
             presence_penalty: 0.0,
              
         }
-    },
-    {
-        name:"Image Generation",
-        id:"image generation",
-        description:"Generates exact or similar images according to the input taken by the user ",
-        
     },
     {
         name:"Querry Generator",
